@@ -1,0 +1,11 @@
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\bin\Debug\PiotrKoleczeklab1.exe.config
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\bin\Debug\PiotrKoleczeklab1.exe
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\bin\Debug\PiotrKoleczeklab1.pdb
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\obj\Debug\PiotrKoleczeklab1.csprojAssemblyReference.cache
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\obj\Debug\PiotrKoleczeklab1.FormMain.resources
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\obj\Debug\PiotrKoleczeklab1.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\obj\Debug\PiotrKoleczeklab1.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\obj\Debug\PiotrKoleczeklab1.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\obj\Debug\PiotrKoleczeklab1.exe
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\obj\Debug\PiotrKoleczeklab1.pdb
+C:\Users\Piotr\Desktop\Programowanie\Kredek\lab1\zadanie domowe\PiotrKoleczeklab1\PiotrKoleczeklab1\obj\Debug\PiotrKoleczeklab1.GameForm.resources
